@@ -23,7 +23,8 @@ These applications are:
 The demo video of the applications: https://drive.google.com/file/d/1FBlx4ndklBIvi_Wh7q1ebIQ6MnHrCNPf/view
 
 ## Publication
-For detailed information please refer to the paper entitled "School of the Future: A Comprehensive Study on the Effectiveness of Augmented Reality as a Tool for Primary School Children’s Education"
+For detailed information please refer to the paper entitled "School of the Future: A Comprehensive Study on the Effectiveness of Augmented Reality as a Tool for Primary School Children’s Education."
+
 Available at: https://www.mdpi.com/2076-3417/11/11/5277
 
 
