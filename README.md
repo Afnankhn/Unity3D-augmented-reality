@@ -30,14 +30,17 @@ Available at: https://www.mdpi.com/2076-3417/11/11/5277
 
 ## Credit and Citation:
 
-MDPI and ACS Style
+MDPI and ACS Style:
+
 Afnan; Muhammad, K.; Khan, N.; Lee, M.-Y.; Imran, A.S.; Sajjad, M. School of the Future: A Comprehensive Study on the Effectiveness of Augmented Reality as a Tool for Primary School Children’s Education. Appl. Sci. 2021, 11, 5277. https://doi.org/10.3390/app11115277
 
 
-AMA Style
+AMA Style:
+
 Afnan, Muhammad K, Khan N, Lee M-Y, Imran AS, Sajjad M. School of the Future: A Comprehensive Study on the Effectiveness of Augmented Reality as a Tool for Primary School Children’s Education. Applied Sciences. 2021; 11(11):5277. https://doi.org/10.3390/app11115277
 
 
-Chicago/Turabian Style
+Chicago/Turabian Style:
+
 Afnan, Khan Muhammad, Noman Khan, Mi-Young Lee, Ali Shariq Imran, and Muhammad Sajjad. 2021. "School of the Future: A Comprehensive Study on the Effectiveness of Augmented Reality as a Tool for Primary School Children’s Education" Applied Sciences 11, no. 11: 5277. https://doi.org/10.3390/app11115277
 
